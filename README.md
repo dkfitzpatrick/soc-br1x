@@ -42,7 +42,6 @@ Many people asked if this core can be commercially used, the answer is as below:
        service of this core is not not not warranted!!! 
    * Welcome to visit http://www.rvmcu.com/ for more comprehensive information of RISC-V core availiable for commercial usage. 
 
-
 Detailed Introduction
 -----------------------------
 
@@ -53,7 +52,7 @@ from https://github.com/SI-RISCV/e200_opensource/tree/master/doc directory.
 
 By following the guidences from the doc, you can very easily start to use Hummingbird E203 processor core and demo SoC.
 
-Meanwhile, the Hummingbird E203 Core was deeply introduced in the published Book 
+Meanwhile, the Hummingbird E203 Core was deeply introduced in the published Book (蜂鸟E203处理器核在如下出版中文书籍中进行深入浅出的分析讲解):
 
     《手把手教你设计CPU：RISC-V处理器篇》（已经上市，请在京东、淘宝、当当上搜索 RISC-V关键字）
 
@@ -61,7 +60,7 @@ Meanwhile, the Hummingbird E203 Core was deeply introduced in the published Book
         
     《RISC-V架构与嵌入式开发快速入门》（已经上市，请在京东、淘宝、当当上搜索 RISC-V关键字）
 
-![book2pic.jpg](img/book2pic.jpg)
+![bookpic2.jpg](img/bookpic2.jpg)
 
 What are you waiting for? Try it out now!
 
@@ -72,7 +71,7 @@ In order to easy user to study RISC-V in a quick and easy way, we have made a de
 #### 蜂鸟E203专用的FPGA开发板
 
 #### Nuclei EV Kit
-![Picture 2-1](img/pics2-1.jpg)
+![Picture 2-1](img/2-1.jpg)
 
 #### Hummingbird EV Kit
 <img src="https://github.com/SI-RISCV/e200_opensource/blob/master/boards/hbirdkit/pics/p1.jpg" width="480">
