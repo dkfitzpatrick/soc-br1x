@@ -1,0 +1,8 @@
+version: 1.0.0
+root_dir: /home/dan/go/src/danf/ipms-test/newdemowork/soc/e203/v0.9.2
+manifest:
+    chip_id: 8bcc259f-7e74-450d-831e-ab409f67230c
+    name: e203
+    internal_name: dev/e203
+    version_name: 0.9.2
+    source_path: ""
