@@ -1,4 +1,4 @@
-# soc-v1
+# soc-br1
 
 collection of open source verilog for text analysis
 
