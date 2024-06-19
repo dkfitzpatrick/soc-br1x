@@ -72,15 +72,14 @@ In order to easy user to study RISC-V in a quick and easy way, we have made a de
 #### 蜂鸟E203专用的FPGA开发板
 
 #### Nuclei EV Kit
-![Picture 2-1](img/pics2-1.jpg)
+![Picture 2-1](img/2-1.jpg)
 
 #### Hummingbird EV Kit
-<img src="https://github.com/SI-RISCV/e200_opensource/blob/master/boards/hbirdkit/pics/p1.jpg" width="480">
 ![Picture P1](img/p1.jpg)
 
 #### 蜂鸟E203专用的JTAG调试器
-<img src="https://github.com/SI-RISCV/e200_opensource/blob/master/boards/hbirdkit/pics/p4.jpg" width="400">
 ![Picture P4](img/p4.jpg)
+![Picture P4](img/p5.jpg)
 
 The detailed introduction and the relevant documentation can be seen from https://github.com/SI-RISCV/e200_opensource/tree/master/boards directory.
 
