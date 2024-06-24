@@ -3,10 +3,10 @@
 *	Description : 2-4 decoder gate level
 ********************************************************************************/
 
-module decoder38(D, x, y, z);
+module decoder38(D, x, y, z, w);
 
 	output [7:0] D;
-	input x, y, z;
+	input x, y, z, w;
 	
 	wire nz = ~z;
 	
